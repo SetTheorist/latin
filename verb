@@ -1,14 +1,23 @@
+adoro,adorare,adoravi,adoratus - worship, adore
+ambulo,ambulare,ambulavi,ambulatus - walk, take a walk, 'live'
 amo,amare,amavi,amatus - love
 audio,audire,audivi,auditus - hear
 cado,cadere,cecidi,casus - fall
+canto,cantare,cantavi,cantatus - sing, chant
 capio,capere,cepi,captus - seize, capture, take
 cogito,cogitare,cogitavi,cogitatus - think
+collaudo,collaudare,collaudavi,collaudatus - praise exceedingly, praise together
+consecro,consecrare,consecravi,consecratus - make holy, consecrate
+conservo,conservare,conservavi,conservatus - keep, preserve
 creo,creare,creavi,creatus - create
 defendo,defendere,defendi,defensus - defend
 dico,dicere,dixi,dictus - say
 do,dare,dedi,datus - give
+dono,donare,donavi,donatus - give, grant, forgive
 dormio,dormire,dormivi,dormitus - sleep
+evoco,evocare,evocavi,evocatus - call forth
 exclamo,exclamare,exclamavi,exclamatum - shout
+exoro,exorare,exoravi,exoratus - beseech
 expello,expellere,expuli,expulsum - expel, drive out, drive away
 facio,facere,feci,factus - make, do
 fundo,fundare,fundavi,fundatus - found, establish
@@ -16,15 +25,22 @@ gero,gerere,gessi,gestus - wage, bear, manage, conduct
 habeo,habere,habui,habitus - have
 iacio,iacere,ieci,iactus - throw
 invenio,invenire,inveni,inventus - find, come upon
+invoco,invocare,invocavi,invocatus - call upon, invoke
+laudo,laudare,laudavi,laudatus - praise
+libero,liberare,liberavi,liberatus -free
 mitto,mittere,misi,missus - send, cast, put
 narro,narrare,narravi,narratus - tell, narrate
+observo,observare,observavi,observatus - watch, observe
 *,*,odi,* - hate
+opero,operare,operavi,operatus - work
+oro,orare,oravi,oratus - pray
 paro,parare,paravi,paratus - prepare, provide
 possum,posse,potui,* - be able, can
 puto,putare,putavi,putatus - think, reckon
 regno,regnare,regnavi,regnatus - rule, reign
 remaneo,remanere,remansi,remansus - remain, be left
 rogo,rogare,rogavi,rogatus - ask
+sacro,sacrare,sacravi,sacratus - make holy, consecrate
 scio,scire,scivi,scitus - know
 scribo,scribere,scripsi,scriptus - write
 servio,servire,servivi,servitus - serve, comply with
@@ -35,4 +51,5 @@ timeo,timere,timui,* - fear, be afraid (of)
 venio,venire,veni,ventus - come
 video,videre,vidi,visus - see, realize
 vinco,vincere,vici,victus - conquer, overcome
+voco,vocare,vocavi,vocatus - call, invite
 volo,velle,volui,* - want, will, wish, be willing
