@@ -1,24 +1,30 @@
-domus,-o,(2f)
+domus,-o,(2f) - house
 
-ager,agro,(2m)
-agnus,-o,(2m)
-animus,-o,(2m)
-annus,-o,(2m)
+ager,agro,(2m) - field, farm
+agnus,-o,(2m) - lamb
+animus,-o,(2m) - heart, mind, spirit
+annus,-o,(2m) - year
 barbarus,-o,(2m) - barbarian
-deus,-o,(2m)
-elephantus,-o,(2m)
-legatus,-o,(2m)
-locus,-o,(2m)
-mundus,-o,(2m)
-patricius,-o,(2m)
-populus,-o,(2m)
-tribunus,-o,(2m)
-vir,-o,(2m)
+colonus,-o,(2m) - colonist
+deus,-o,(2m) - god
+elephantus,-o,(2m) - elephant
+legatus,-o,(2m) - legate
+locus,-o,(2m) - place
+mundus,-o,(2m) - world
+patricius,-o,(2m) - patrician
+populus,-o,(2m) - people
+puer,-o,(2m) - boy
+tribunus,-o,(2m) - tribune
+vir,-o,(2m) - man
 
-bellum,-o,(2n)
-consilium,-o,(2n)
-fatum,-o,(2n)
-forum,-o,(2n)
-officium,-o,(2n)
-periculum,-o,(2n)
-regnum,-o,(2n)
+aurum,-o,(2n) - gold
+auxilium,-o,(2n) - help
+bellum,-o,(2n) - war
+consilium,-o,(2n) - plan
+fatum,-o,(2n) - prediction, fate
+forum,-o,(2n) - market, forum
+odium,-o,(2n) - hatred
+officium,-o,(2n) - office
+periculum,-o,(2n) - danger
+regnum,-o,(2n) - kingdom, rulue
+saeculum,-o,(2n) - century, age

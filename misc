@@ -1,27 +1,32 @@
-a,ab +abl -
-ad +acc - 
-cum +abl - 
-ex,e +abl -
-in +abl - 
-in +acc - 
+a,ab +abl - from
+ad +acc - to, up to, (near)
+ante +acc - before
+contra +acc - against
+cum +abl - with
+de +abl - about
+ex,e +abl - from, out from
+in +acc - into
+in +abl - in, on
 
-domi
-enim
-ergo
-etiam
-fere
-hic
-hodie
-iam
-non
-nunc
-postquam
-quam
-quando
-quia
-quod
-rursus
-sed
-semper
-ubi
-utique,ita
+domi - at home
+enim - for
+ergo - therefore
+etiam - also, even
+fere - almost, in general
+hic - here, this
+hodie - today
+iam - already
+igitur - therefore
+-ne - (question clitic)
+non - not
+nunc - now
+postquam - after
+quam - than
+quando - when
+quia - because
+quod - that
+rursus - again
+sed - but
+semper - always
+ubi - where
+utique,ita - yes

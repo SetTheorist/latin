@@ -1,13 +1,13 @@
-domus,-u,(4f)
-manus,-u,(4f)
+domus,-u,(4f) - house
+manus,-u,(4f) - hand
 
-casus,-u,(4m)
-cursus,-u,(4m)
+casus,-u,(4m) - fall, end
+cursus,-u,(4m) - course, direction, passage
 exercitus,-u,(4m) - army
-metus,-u,(4m)
-senatus,-u,(4m)
-visus,-u,(4m)
-vultus,-u,(4m)
+metus,-u,(4m) - fear
+senatus,-u,(4m) - senate
+visus,-u,(4m) - sight, seeing, vision
+vultus,-u,(4m) - countenance, visage, face
 
-cornu,-u,(4n)
-genu,-u,(4n)
+cornu,-u,(4n) - horn
+genu,-u,(4n) - knee

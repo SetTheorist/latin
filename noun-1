@@ -1,19 +1,21 @@
-aqua,-a,(1f)
-causa,-a,(1f)
-cura,-a,(1f)
-fabula,-a,(1f)
-fortuna,-a,(1f)
-ira,-a,(1f)
-natura,-a,(1f)
-nauta,-a,(1f)
-pecunia,-a,(1f)
-poena,-a,(1f)
-puella,-a,(1f)
-pugna,-a,(1f)
-regina,-a,(1f)
-schola,-a,(1f)
-terra,-a,(1f)
-unda,-a,(1f)
-via,-a,(1f)
-vita,-a,(1f)
+aqua,-a,(1f) - water
+causa,-a,(1f) - purpose, reason
+cura,-a,(1f) - care, concern
+fabula,-a,(1f) - legend
+fortuna,-a,(1f) - chance, luck, fate, fortune
+ira,-a,(1f) - anger, wrath
+mercatura,-a,(1f) - trade
+natura,-a,(1f) - nature
+pecunia,-a,(1f) - money
+poena,-a,(1f) - pain, punishment, penalty
+puella,-a,(1f) - girl
+pugna,-a,(1f) - battle
+regina,-a,(1f) - queen
+schola,-a,(1f) - school
+terra,-a,(1f) - land
+unda,-a,(1f) - wave
+via,-a,(1f) - way, road, means
+victoria,a,(1f) - victory
+vita,-a,(1f) - life
 
+nauta,-a,(1m) - sailor
