@@ -17,6 +17,7 @@ trans +acc - across
 domi - at home
 enim - for, indeed
 ergo - therefore
+et - and
 etiam - also, even
 fere - almost, in general
 hic - here, this, in this place
@@ -25,13 +26,14 @@ iam - already
 ibi - there, in that place, then
 igitur - therefore
 merito - rightly, deservedly
-nam - for
--ne - (question clitic)
+nam,namque - for, indeed, really
+-ne - (interrogative clitic)
 non - not
 numquam - never
 nunc - now
 postquam - after
 quam - than
+-que - and
 quando - when
 quia - because
 quod - that
@@ -39,5 +41,7 @@ quoque - too, also
 rursus - again
 sed - but
 semper - always
+sic - in this manner, this; sic ... ut: in the same way as
+sicut - just as
 ubi - where
 utique,ita - yes
