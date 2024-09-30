@@ -2,12 +2,12 @@
 nom     hic   haec  hoc
 acc     hunc  hanc  hoc
 gen       -- hujus --
-data      -- huic --
+dat       -- huic --
 abl     hoc   hac   hoc
 
 (plur)   M     F     N
 nom     hi    hae   haec
 acc     hos   has   haec
 gen     horam haram horum
-data      -- his --
+dat       -- his --
 abl       -- his --
