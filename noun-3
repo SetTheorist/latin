@@ -1,34 +1,33 @@
-aetas,aetate,(3f) - age, time of life
-feles,fele,(3f) - cat
-fortitudo,fortitudine,(3f) - bravery
-lex,lege,(3f) - law
-mens,mente,(3f) - mind
-natio,natione,(3f) - nation
-navis,-i,(3f) - ship
-pars,parte,(3f) - part
-pax,pace,(3f) - peace
-plebs,-e,(3f) - plebeian(s)
-potestas,potestate,(3f) - power
-pugna,-a,(3f) - battle
+aetās,aetāte,(3f) - age, time of life
+fēlēs,fēle,(3f) - cat
+fortitūdō,fortitūdine,(3f) - bravery
+lēx,lēge,(3f) - law
+mēns,mente,(3f) - mind
+nātiō,nātiōne,(3f) - nation
+nāvis,-ī,(3f) - ship
+pars,parte/-ī,(3f) - part
+pāx,pāce,(3f) - peace
+plēbs,-e,(3f) - plebeian(s)
+potestās,potestāte,(3f) - power
 urbs,-e,(3f) - city
-uxor,-e,(3f) - wife
-veritas,veritate,(3f) - truth
-virtus,virtute,(3f)
-vōx,voce,(3f) - voice
+uxor,uxōre,(3f) - wife
+vēritās,vēritāte,(3f) - truth
+virtūs,virtūte,(3f)
+vōx,vōce,(3f) - voice
 
-anser,-e,(3m) - goose
-civis,-e,(3m) - citizen
-consul,-e,(3m) - consul
-dictator,-e,(3m) - dictator
-ignis,-i,(3m) - fire
-mercator,-e,(3m) - merchant
+ānser,-e,(3m) - goose
+cīvis,-ī/-e,(3m) - citizen
+cōnsul,-e,(3m) - consul
+dictātor,dictātōre,(3m) - dictator
+īgnis,-ī/-e,(3m) - fire
+mercātor,mercātōre,(3m) - merchant
 pater,patre,(3m) - father
-pons,ponte,(3m) - bridge
-rex,rege,(3m) - king
-timor,-e,(3m) - fear
+pōns,ponte,(3m) - bridge
+rēx,rēge,(3m) - king
+timor,timōre,(3m) - fear
 
-animal,-i,(3n) - animal
+animal,animālī,(3n) - animal
 corpus,corpore,(3n) - body
-mare,-i,(3n) - sea
-nomen,nomine,(3n) - name
+mare,-ī/-e,(3n) - sea
+nōmen,nōmine,(3n) - name
 tempus,tempore,(3n) - time
