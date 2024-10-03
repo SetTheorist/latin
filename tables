@@ -11,3 +11,18 @@ acc     hōs   hās   haec
 gen     hōrum hārum hōrum
 dat       -- hīs --
 abl       -- hīs --
+
+
+(sing)   M      F      N
+nom     quī    quae   quod
+acc     quem   quam   quod
+gen       -- cujus --
+dat       -- cui --
+abl     quō    quā    quō
+
+(plur)   M      F      N
+nom     quī    quae   quae
+acc     quōs   quās   quae
+gen     quōrum quārum quōrum
+dat        -- quībus --
+abl        -- quībus --
