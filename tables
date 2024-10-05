@@ -26,3 +26,18 @@ acc     quōs   quās   quae
 gen     quōrum quārum quōrum
 dat        -- quībus --
 abl        -- quībus --
+
+
+(sing)   M      F      N
+nom     alius  alia   aliud
+acc     alium  aliam  aliud
+gen       -- alterīus --
+dat       -- aliī --
+abl     aliō   aliā   aliō
+
+(plur)   M       F       N
+nom     aliī    aliae   alia
+acc     aliōs   aliās   alia
+gen     aliōrum aliārum aliōrum
+dat        -- aliīs --
+abl        -- aliīs --
