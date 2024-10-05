@@ -2,7 +2,9 @@ aetās,aetāte,(3f) - age, time of life
 fēlēs,fēle,(3f) - cat
 fortitūdō,fortitūdine,(3f) - bravery
 lēx,lēge,(3f) - law
+māter,mātre,(3f) - mother
 mēns,mente,(3f) - mind
+mors,morte,(3f) - death, corpse, annihilation
 nātiō,nātiōne,(3f) - nation
 nāvis,-ī,(3f) - ship
 nox,nocte,(3f) - night
@@ -16,10 +18,12 @@ vēritās,vēritāte,(3f) - truth
 virtūs,virtūte,(3f)
 vōx,vōce,(3f) - voice
 
+amor,amōre - love
 ānser,-e,(3m) - goose
 cīvis,-ī/-e,(3m) - citizen
 cōnsul,-e,(3m) - consul
 dictātor,dictātōre,(3m) - dictator
+hostis,hoste,(3m/f) - stranger, enemy, enemy of the state
 īgnis,-ī/-e,(3m) - fire
 labor,-e,(3m) - work, labor, toil, exertion, distress, trouble, pain
 mercātor,mercātōre,(3m) - merchant
@@ -30,6 +34,7 @@ rūmor,rūmōre - murmur, rumour, popular voice
 timor,timōre,(3m) - fear
 
 animal,animālī,(3n) - animal
+caput,capite,(3n) - head
 corpus,corpore,(3n) - body
 iter,itinere,(3n) - journey, march, road, passage
 mare,-ī/-e,(3n) - sea
