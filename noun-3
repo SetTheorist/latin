@@ -1,6 +1,7 @@
 aetās,aetāte,(3f) - age, time of life
 ars,arte,(3f) - skill, art
-fēlēs,fēle,(3f) - cat
+avis,-e,(3f) - bird, sign, omen
+fēlis/fēlēs,fēle,(3f) - cat
 fortitūdō,fortitūdine,(3f) - bravery
 lēx,lēge,(3f) - law
 lūx,lūce,(3f) - light, daylight, brightness, life, day
@@ -12,6 +13,7 @@ nāvis,-ī,(3f) - ship
 nox,nocte,(3f) - night
 pars,parte/-ī,(3f) - part
 pāx,pāce,(3f) - peace
+pecus,pecude,(3f) - single animal, sheep
 plēbs,-e,(3f) - plebeian(s)
 potestās,potestāte,(3f) - power
 urbs,-e,(3f) - city
@@ -20,11 +22,13 @@ vēritās,vēritāte,(3f) - truth
 virtūs,virtūte,(3f)
 vōx,vōce,(3f) - voice
 
-amor,amōre - love
+amor,amōre,(3m) - love
 ānser,-e,(3m) - goose
+canis/canēs,cane,(3m) - dog
 cīvis,-ī/-e,(3m) - citizen
 cōnsul,-e,(3m) - consul
 dictātor,dictātōre,(3m) - dictator
+flōs,flōris,(3m) - flower, bloom
 homō,homine,(3m) - human being, man, person
 hostis,hoste,(3m/f) - stranger, enemy, enemy of the state
 īgnis,-ī/-e,(3m) - fire
@@ -33,6 +37,7 @@ labor,-e,(3m) - work, labor, toil, exertion, distress, trouble, pain
 mercātor,mercātōre,(3m) - merchant
 mīles,mīlite,(3m) - soldier
 mōns,monte,(3m) - mountain, huge rock, towering heap
+mūs,mūre,(3m) - mouse, rat
 pater,patre,(3m) - father
 pōns,ponte,(3m) - bridge
 rēx,rēge,(3m) - king
@@ -49,7 +54,7 @@ lītus,litore,(3n) - shore, beach
 mare,-ī/-e,(3n) - sea
 nōmen,nōmine,(3n) - name
 ōs,ōre,(3n) - mouth, face, countenance, expression, boldness
+pecus,pecore,(3n) - cattle, sheep, flock
 scelus,scelere,(3n) - crime, villainy, vicious nature, criminal, villain
 tempus,tempore,(3n) - time
 
-ars,arte,(3mixed) - art, skill
