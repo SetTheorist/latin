@@ -24,12 +24,15 @@ NB -ris/-re
 3p laudantur  monentur  dūcuntur  capiuntur  audiuntur
 
 Perfect Indicative Active
-1s  -ī      laudāvī
-2s  -istī   laudāvistī/laudāstī
-3s  -it     laudāvit
-1p  -imus   laudāvimus
-2p  -istis  laudāvistis/laudāstis
-3p  -ērunt  laudāvērunt
+NB -ērunt/-ēre
+            I            II         III-o     III-io    IV
+1s  -ī      laudāvī      monuī      duxī      cēpī      audīvī
+2s  -istī   laudāvistī   monuistī   duxistī   cēpistī   audīvistī
+3s  -it     laudāvit     monuit     duxit     cēpit     audīvit
+1p  -imus   laudāvimus   monuimus   duximus   cēpimus   audīvimus
+2p  -istis  laudāvistis  monuistis  duxistis  cēpistis  audīvistis
+3p  -ērunt  laudāvērunt  monuērunt  duxērunt  cēpērunt  audīvērunt
+NB laudāvistī/laudāstī, laudāvistis/laudāstis
 
 Imperfect Indicative Active
    I           II         III-o      III-io       IV
@@ -49,4 +52,13 @@ NB -ris/-re
 1s laudābāmur   monēbāmur   dūcēbāmur   capiēbāmur   audiēbāmur
 2s laudābāminī  monēbāminī  dūcēbāminī  capiēbāminī  audiēbāminī
 3s laudābantur  monēbantur  dūcēbantur  capiēbantur  audiēbantur
+
+Pluperfect Indicative Active
+             I             II           III-o      III-io      IV
+1s  -eram    laudāveram    monueram     duxeram    cēpieram    audiveram
+2s  -erās    laudāverās    monuerās     duxerās    cēpierās    audiverās
+3s  -erat    laudāverat    monuerat     duxerat    cēpierat    audiverat
+1p  -erāmus  laudāverāmus  monuerāmus   duxerāmus  cēpierāmus  audiverāmus
+2p  -erātis  laudāverātis  monuerātis   duxerātis  cēpierātis  audiverātis
+3p  -erant   laudāverant   monuerant    duxerant   cēpierant   audiverant
 
