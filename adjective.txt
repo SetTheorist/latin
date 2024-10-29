@@ -4,6 +4,7 @@ aeternus,-a,-um - eternal
 albus,-a,-um - white
 alius,alia,aliud - (irr.) other, another
 altus,-a,-um - high, lofty; deep
+angelicus,-a,-um - angelic
 antīquus,-a,-um - old, ancient, forefathers
 arduus,-a,-um - steep, elevated, high, laborious
 āridus,-a,-um - dry, arid, meagre, poor
@@ -16,14 +17,19 @@ caecus,-a,-um - blind
 cārus,-a,-um - (+dat.) dear, beloved
 citus,-a,-um - swift
 clārus,-a,-um - clear, bright, glorious, famous
+contrītus,-a,-um - contrite
+cūnctus,-a,-um - all
 dīgnus,-a,-um - (+abl.) worthy (of)
 dīvīnus,-a,-um - divine
 ēgregius,-a,-um - excellent
 ēlēctus,-a,-um - chosen, elect
 ferus,-a,-um - savage, wild, fierce
 firmus,-a,-um - steadfast, firm
+glōriōsus,-a,-um - glorious
+grātus,-a,-um - (+dat.) pleasing, agreeable
 hūmānus,-a,-um - human, cultured, refined
 immodicus,-a,-um - excessive, immoderate
+immundus,-a,-um - impure, unclean
 impius,-a,-um - wicked, godless
 indīgnus,-a,-um - (+abl.) unworthy (of)
 īnfīnītus,-a,-um - infinite, endless
@@ -34,13 +40,15 @@ jūstus,-a,-um - righteous, just
 laetus,-a,-um - glad
 līber,-a,-um - free, independent, unrestricted
 longus,-a,-um - long, far
-aestus,-a,-um - sad
+maestus,-a,-um - sad
 māgnus,-a,-um - great
 malus,-a,-um - bad, evil, wicked
 meus,-a,-um - my, mine
+mīrus,-a,-um - wonderful
 miser,-a,-um - miserable, wretched, pitiable
 mortuus,-a,-um - dead
 multus,-a,-um - much, many
+mundus,-a,-um - pure, clean
 noster,nostra,-um - our, ours
 novus,-a,-um - new, recent
 nūllus,-a,-um - none; (nūllus non: every)
@@ -57,14 +65,18 @@ proprius,-a,-um - one's own, peculiar
 pulcher,pulchra,-um - beautiful, excellent, pretty, fair
 rārus,-a,-um - rare
 rotundus,-a,-um - round
+sacrōsānctus,-a,-um - most holy, venerable
 sacer,sacra,-um - holy, sacred
 saevus,-a,-um - furious, cruel
+salūtifer,-a,-um - salutary, saving
 sānctus,-a,-um - hallowed, holy, saint
 sānus,-a,-um - healthy, sound, sane
 sōlus,-a,-um - alone, only
 stultus,-a,-um - foolish, stupid
 superbus,-a,-um - superb, magnificent, proud, arrogant, haughty
+supernus,-a,-um - heavenly, celestial
 suus,-a,-um - his/her/its (own)
+terrēnus,-a,-um - earthly
 timidus,-a,-um - fearful, timid
 tōtus,-a,-um - whole
 tuus,-a,-um - your,yours

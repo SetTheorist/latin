@@ -41,6 +41,7 @@ hodiē - today
 iam,jam - already
 ibī - there, in that place, then
 igitur - therefore
+iterum - again
 juxtā - nearly
 male - badly, poorly
 meritō - rightly, deservedly
@@ -61,17 +62,19 @@ quam - than
 -que - and
 quandō - when
 quārē - for what reason? why?
-quia - because
+quia - because, that
 quod - that; therefore; because; why?, what?
+quoniam - that, because
 quōque - too, also
 rūrsus - again
 saepe - often
-sed - but
+sed - but, yet
 semper - always
 sēmet - (usu. + ipse) oneself, himself, herself, itself
 sī - if
 sīc - in this manner, this; sic ... ut: in the same way as
 sīcut - just as
+tunc - then, at that time
 ubī - where; when, if
 utique,ita - yes
 vae - (interj.) ah! alas!

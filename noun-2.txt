@@ -66,7 +66,9 @@ fēstum,-ō,(2n) - feast, feast-day
 firmāmentum,-ō,(2n) - firmament, strengthening, support, prop, stay
 forum,-ō,(2n) - market, forum
 gaudium,-ō,(2n) - joy (inner feeling)
+incēnsum,-ō,(2n) - incense
 lignum,-ō,(2n) - wood, firewood, post, writing-table, spear-shaft, cross, gallows
+meritum,meritō,(2n) - merit
 mystērium,-ō,(2n) - mystery
 odium,-ō,(2n) - hatred
 officium,-ō,(2n) - office, duty, service
@@ -84,6 +86,7 @@ sabbatum,-ō,(2n) - Sabbath
 sacrāmentum,-ō,(2n) - sacrament
 sacrificium,-ō,(2n) - sacrifice
 saeculum,-ō,(2n) - century, age, world
+silentium,-ō,(2n) - silence
 templum,-ō,(2n) - temple, church
 testāmentum,-ō,(2n) - convenant, testament
 ūniversum,-ō,(2n) - universe

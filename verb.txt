@@ -45,6 +45,7 @@ operō,operāre,operāvī,operātum - work
 ōrō,ōrāre,ōrāvī,ōrātum - pray
 parō,parāre,parāvī,parātum - prepare, provide
 peccō,peccāre,peccāvī,peccātum - sin, do wrong, act incorrectly, stumble
+-pleō,-plēre,-plēvī,-plētum - fill, complete
 portō,portāre,portāvī,portātum - carry, bring
 putō,putāre,putāvī,putātum - think, reckon
 recūsō,recūsāre,recūsāvī,recūsātum - reject, refuse, refuse to, object, decline
@@ -62,20 +63,24 @@ vītō,vītāre,vītāvī,vītātum - avoid
 vocō,vocāre,vocāvī,vocātum - call, invite
 volō,volāre,volāvī,volātum - fly
 
+adimpleō,adimplēre,adimplēvī,adimplētum - fulfill
 appāreō,appārēre,appāruī,appāritūrum - appear, show up, occur
 candeō,candēre,canduī,* - shine, be of brilliant whiteness, gleam (white), glow, sparkle; glow with heat, be glowing hot
+compleō,complēre,complēvī,complētum - fulfill, accomplish
 dēbeō,dēbēre,dēbuī,dēbitum - owe, ought, must
 dēleō,dēlēre,dēlēvī,dēlētum - destroy, wipe out
 doceō,docēre,docui,doctum - teach
 egeō,egēre,eguī,* - need, lack, be poor, be in need
 fleō,flēre,flēvī,flētum - cry, weep
 habeō,habēre,habuī,habitum - have, hold; consider
+impleō,implēre,implēvī,implētum - fill, accomplish
 jaceō,jacēre,jacuī,jacitūrum - lie (down)
 jaciō,jacēre,jēcī,jactum - throw
 jubeō,jubēre,jussī,jussum - bid, order, command
 misceō,miscēre,miscuī,mixtum - mix, mingle
 moneō,monēre,monuī,monitum - warn, advise; teach
 remaneō,remanēre,remānsī,remānsum - remain, be left
+repleō,replēre,replēvī,replētum - fill, complete
 soleō,solēre,soluī,solitum - be accustomed
 studeō,studēre,studuī,* - be eager for, be attached, study, busy oneself with, strive
 teneō,tenēre,tenuī,tentum - hold, keep
@@ -91,16 +96,19 @@ bibō,bibere,bibī,bibitum - drink
 cadō,cadere,cecidī,cāsum - fall, be killed
 concēdō,concēdere,concessī,concessum - yield, withdraw
 conjungō,conjungere,conjūnxī,conjūnctum - join, unite
+corrigō,corrigere,corrēxī,corrēctum - correct
 crēdō,crēdere,crēdidī,crēditum - believe (in), trust (in)
 dēfendō,dēfendere,dēfendī,dēfēnsum - defend
 dēficiō,dēficere,dēfēcī,dēfectum - fail, waste, vanish
 dēscendō,dēscendere,dēscendī,dēscēnsum - descend
 dīcō,dīcere,dīxī,dictum - say, tell; pass.: be called
+dīrigō,dīregere,dīrēxī,dīrēctum - direct
 dīvidō,dīvidere,dīvīsī,dīvīsum - divide, share, distribute
 dūcō,dūcere,dūxī,ductum - lead
 edō,edere,ēdī,ēsum - (irr.) eat, devour
 ēdūcō,ēdūcere,ēdūxī,ēductum - lead out
 efficiō,efficere,effēcī,effectum - make, effect
+ērigō,ērigere,ērēxī,ērēctum - raise up, erect
 expellō,expellere,expulī,expulsum - expel, drive out, drive away
 faciō,facere,fēcī,factum - make, do
 gerō,gerere,gessī,gestum - wage, bear, manage, conduct
